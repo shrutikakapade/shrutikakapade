@@ -1,5 +1,5 @@
 ![logo](https://github.com/shrutikakapade/shrutikakapade-/blob/main/A4%20-%201.jpg)
-<h1 align="center">Hi 👋, I'm Shrutika kapade</h1>
+<h1 align="center">Hi 👋, I'm Shrutika Kapade</h1>
 <h3 align="center">📊 Data Scientist |🤖 Machine Learning Enthusiast | 🌐 Open Source Contributor</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
