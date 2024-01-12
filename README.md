@@ -13,7 +13,7 @@
 
 - 🌐 Open Source Champion: I'm deeply committed to the world of open source, actively contributing to foster a culture of collaboration and innovation.
 
-- 📫 How to reach me **shrutikakapade@gmail.com**
+- 📫 How to reach me shrutikakapade@gmail
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
