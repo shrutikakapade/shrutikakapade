@@ -4,14 +4,18 @@
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutikakapade&label=Profile%20views&color=0e75b6&style=flat" alt="shrutikakapade" /> </p>
+<ul>
+  <li>🚀 Coding Enthusiast: I enjoy writing efficient code, turning complex data challenges into understandable insights, and building strong web solutions with determination.</li>
+  <li>🔬 Data Explorer: I'm skilled in Python, pandas, and matplotlib, Excel, PoweBI, SQL where I uncover stories hidden in data, extracting valuable information to make better decisions.</li>
+  <li>🤖 Machine Learning Explorer: I embark on thrilling journeys with scikit-learn and TensorFlow, harnessing the power of AI to conquer real-world challenges.</li>
+  <li>🌐 Open Source Champion: I'm deeply committed to the world of open source, actively contributing to foster a culture of collaboration and innovation.</li>
+</ul>
 
-- 🚀 Coding Enthusiast: I enjoy writing efficient code, turning complex data challenges into understandable insights, and building strong web solutions with determination.
 
-- 🔬 Data Explorer: I'm skilled in Python, pandas, and matplotlib, Excel, PoweBI, SQL where I uncover stories hidden in data, extracting valuable information to make better decisions.
 
-- 🤖 Machine Learning Explorer: I embark on thrilling journeys with scikit-learn and TensorFlow, harnessing the power of AI to conquer real-world challenges.
 
-- 🌐 Open Source Champion: I'm deeply committed to the world of open source, actively contributing to foster a culture of collaboration and innovation.
+
+
 
 - 📫 How to reach me shrutikakapade@gmail
 
