@@ -30,7 +30,7 @@
 
   <li>
     <div align="justify">
-      🌐 Open-source contributor and technical writer, maintaining beginner-friendly, well-documented repositories and sharing practical AI & Data Science insights through my <a href="https://medium.com/@your-medium-username" target="_blank">Medium blog</a> to support learning, collaboration, and community growth.
+      🌐 Open-source contributor and technical writer, maintaining beginner-friendly, well-documented repositories and sharing practical AI & Data Science insights through my <a href="https://medium.com/@shrutikakkapade21" target="_blank">Medium blog</a> to support learning, collaboration, and community growth.
     </div>
   </li>
 </ul>
