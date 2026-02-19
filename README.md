@@ -12,31 +12,31 @@
 <ul class>
   <li>
     <div align="justify">
-      🚀 AI & Data Science Professional with expertise in Machine Learning, Deep Learning, and Generative AI, supported by hands-on experience across the complete AI model lifecycle—from data preparation and feature engineering to model training, evaluation, and deployment.
+      AI & Data Science Professional with expertise in Machine Learning, Deep Learning, and Generative AI, supported by hands-on experience across the complete AI model lifecycle—from data preparation and feature engineering to model training, evaluation, and deployment.
     </div>
   </li>
 
   <li>
     <div align="justify">
-      🔬 Strong analytical background with practical experience in Python, SQL, Excel, Power BI, and Exploratory Data Analysis (EDA), focused on predictive modeling, insightful data visualization, and data-driven decision-making.
+      Strong analytical background with practical experience in Python, SQL, Excel, Power BI, and Exploratory Data Analysis (EDA), focused on predictive modeling, insightful data visualization, and data-driven decision-making.
     </div>
   </li>
 
   <li>
     <div align="justify">
-      🤖 Experienced in developing Machine Learning, Deep Learning, and LLM-based applications using frameworks such as scikit-learn and TensorFlow, with an emphasis on building reliable, production-ready analytical pipelines.
+      Experienced in developing Machine Learning, Deep Learning, and LLM-based applications using frameworks such as scikit-learn and TensorFlow, with an emphasis on building reliable, production-ready analytical pipelines.
     </div>
   </li>
 
   <li>
     <div align="justify">
-      🌐 Open-source contributor and technical writer, maintaining beginner-friendly, well-documented repositories and sharing practical AI & Data Science insights through my <a href="https://medium.com/@shrutikakkapade21" target="_blank">Medium blog</a> to support learning, collaboration, and community growth.
+      Open-source contributor and technical writer, maintaining beginner-friendly, well-documented repositories and sharing practical AI & Data Science insights through my <a href="https://medium.com/@shrutikakkapade21" target="_blank">Medium blog</a> to support learning, collaboration, and community growth.
     </div>
   </li>
 </ul>
 
 
-- 📫 How to reach me shrutikakapade@gmail.com
+- How to reach me shrutikakapade@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
