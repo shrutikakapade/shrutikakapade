@@ -1,8 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Shrutika Kapade</h1>
+<h1 align="center">Hello 👋, I'm Shrutika Kapade</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | Open-Source Contributor</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
 
 <p align="left">
@@ -41,7 +39,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrutikakapade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutikakapade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shrutika_kapade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutika_kapade" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
